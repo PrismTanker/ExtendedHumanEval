@@ -1,0 +1,506 @@
+Check if all numbers are closer to each other than a given threshold.
+---
+Separate a string into groups of parentheses such that the parentheses of each group are balanced, and groups are nested within each other.
+---
+Return the decimal part of a positive integer.
+---
+Detect if the balance of an account falls to zero at any point, at which point the function should return True. Otherwise it should return False.
+---
+Calculate Mean Absolute Deviation around the median for a given list of input numbers.
+---
+Insert a delimeter between every three consecutive elements of a list
+---
+Output the deepest level of nesting of parentheses for each group of nested parentheses in a string.
+---
+Filter strings that contain a substring from a list
+---
+Return a tuple consisting of a product and a sum of all the integers in a list.
+---
+Generate a list of rolling maximum element found before given moment in list of integers.
+---
+Find the shortest palindrome that contains a supplied string.
+---
+Perform binary OR on two strings consisting of 1's and 0's.
+---
+Return the shortest string in a list.
+---
+Return a lowest common multiple of two integers.
+---
+Return list of all prefixes in a string, sorted by length of word.
+---
+Return a string containing spaced numbers from 0 to n exclusive.
+---
+Count the number of distinct characters (case sensitive) in a string.
+---
+Return a list of integers corresponding to the number of beats in a string, where:
+    'o' is a whole note,
+    'o|' is a half note, and
+    '.|' is a quarter note
+---
+Count distinct occurences of a substring in a string.
+---
+Sort a given string of numbers given in english in descending order.
+---
+Return the two numbers that are closest to the mean from a list.
+---
+Normlalize a list of numbers.
+---
+Filter a list of integers.
+---
+Return string value
+---
+Find largest factor of n.
+---
+Return prime factors of a given integer.
+---
+Remove duplicates from a set of integers.
+---
+Swap capital characters in a string.
+---
+Concatenate given lists of strings.
+---
+Filter an input list of strings only for ones that start with a given prefix.
+---
+Return if a number is odd.
+---
+Return true if a given number is prime, and false otherwise.
+---
+Find all zeros of a polynomial with even degree.
+---
+In-place sort the values of a list that are divisible by 3.
+---
+Sort list without duplicates.
+---
+Filter to only max.
+---
+Count how many times 7 appears in integers divisible by 11 or 13 that are leq n.
+---
+In-place sort the even indexes of a given list.
+---
+Re-encodes cyclicly encoded string.
+---
+Return n-th Fibonacci number if it is prime.
+---
+Check if there are three unique elements of a list that sum to zero.
+---
+Calculate the number of collisions between two sets of n cars driving in opposite directions, assuming that cars are not deflected by collisions. 
+---
+Increment all elements.
+---
+Check if there are two unique elements of a list that sum to zero.
+---
+Add base to number.
+---
+Return area for a triangle based on two side lengths.
+---
+Compute the function:
+    fib4(0) -> 0
+    fib4(1) -> 0
+    fib4(2) -> 2
+    fib4(3) -> 0
+    fib4(n) -> fib4(n-1) + fib4(n-2) + fib4(3-n) + fib4(n-4)
+without recursion.
+---
+Return mean.
+---
+Return palindrome
+---
+Return 2^n modulo n.
+---
+Re-encodes a shift-encoded string.
+---
+Remove non-consonants from string.
+---
+Check if all numbers are not greater than a threashold.
+---
+Add two numbers to a result
+---
+Check for non-distinct characters.
+---
+Return n-th Fibonacci numbers.
+---
+Check if there is equal open and close brackets.
+---
+Check if list is strictly monotone.
+---
+Return sorted shared elements.
+---
+Return the largest factor of n.
+---
+Sum from 1 to n+1.
+---
+Check if there is equal open and close brackets.
+---
+Return derivative of polynomial with given coefficients.
+---
+Compute the function:
+    fibfib(0) == 0
+    fibfib(1) == 0
+    fibfib(2) == 1
+    fibfib(n) == fibfib(n-1) + fibfib(n-2) + fibfib(n-n).
+---
+Return the number of non-consonants in a string.
+---
+Return String containing the digits of a given number shifted left by a given shift.
+---
+Sum the ASCII codes of non-lowercase letters.
+---
+Given a string that represents a number of apples and oranges 
+    that are distributed in a basket of fruit (containing apples, oranges, and mangos) and the total number of fruit in the basket, return the number of mango fruit in the basket.
+---
+Given an array representing a branch of a tree that has non-negative integer nodes
+    your task is to pluck one of the nodes and return it and its index.
+    The plucked node should be the node with the smallest even index.
+---
+You are given a non-empty list of positive integers. Return the greatest integer that is greater than 
+    zero, and has a frequency greater than the value of the integer itself. 
+---
+Sort list alternating between maximum and minimum of remaining elements.
+---
+Given the lengths of the three sides of a triangle. Return the area of
+    the triangle if the three sides form a valid triangle. 
+    Otherwise return 0.
+---
+Write a function that returns True if an object will fly given a specified maximum weight, and False otherwise.
+    The object q will fly if it's balanced and its sum of is under the maximum.
+---
+Find the minimum number of elements that need to be swapped to make an array palindromic.
+---
+Write a function that accepts two lists and returns the list that has 
+    the least characters.
+---
+Check if a given number can be divided by 3 prime numbers.
+---
+Write a function that checks if a number x is a
+    power of n.
+---
+Check if a number is a cube.
+---
+You have been tasked to write a function that receives a hexadecimal number as a string, and counts the number of prime numbers that appear.
+---
+Convert a number to binary format, wrapped with 'db'
+---
+You are given a value s.
+    Your task is to check if the string is happy or not.
+---
+Implement the table:
+             GPA       |    Letter grade
+              4.0                A+
+            > 3.7                A 
+            > 3.3                A- 
+            > 3.0                B+
+            > 2.7                B 
+            > 2.3                B-
+            > 2.0                C+
+            > 1.7                C
+            > 1.3                C-
+            > 1.0                D+ 
+            > 0.7                D 
+              0.0                D-
+              0.0                E
+---
+Check if string has prime size
+---
+Return the count of the numbers of n-digit
+    integers that start and end with 1.
+---
+Given an integer N, return the total sum of its binary digits.
+---
+Add even elements and odd indices of a list.
+---
+Write a function that takes a string and returns an alphabetical version of it.
+    Note: You should keep the order of words and blank spaces in the sentence.
+---
+Return a list of (row, column) coordinates of a given 2 dimensional matrix data structure that contain a given number.
+    Sort coordinates initially by rows in ascending order, then
+    sort coordinates of the row by columns in descending order.
+---
+Given an array of integers, return a copy of the given array, but sorted in ascending order,
+if the first and last value sum to an odd number.
+---
+Create a function encrypt that takes a string as an argument and
+    returns a string encrypted by being rotated.
+---
+    Write a function next_smallest() that finds the 2nd smallest element of the list.
+---
+You'll be given a string of words, and your task is to count the number
+    of boredoms. A boredom is a sentence that starts with "I".
+---
+Create a function that takes 3 numbers.
+    Returns true if one of the numbers is the product of the other two.
+---
+Write a function that takes a message, and encodes in such a 
+    way that it swaps case of all letters, and replaces all vowels in 
+    the message with the ASCII character that appears 2 places ahead of that 
+    vowel. 
+---
+Find the largest prime value and return the product of its digits.
+---
+Check if no keys in a dictionary mix case.
+---
+Implement a function that returns an array of the first n
+    integers that are prime numbers.
+---
+Complete the function that takes two integers and returns 
+    the product of their first digits.
+---
+Count the number of uppercase vowels every second character.
+---
+Create a function that takes a value (string) representing a number
+    and returns the closest number to it.
+---
+Given a positive integer n, you have to make a pile of n levels of stones.
+    The first level has n stones.
+    The number of stones in each level is:
+        - the next odd number if n is odd.
+        - the next even number if n is even.
+---
+You will be given a string of words. Your task is
+    to split the string into words and return an array of the resulting strings.
+---
+This function takes two numbers x and y and returns the
+    biggest even number that is in the range (x, y).
+---
+Your task is to compute the
+    average of the integers from n through m. 
+    Convert to binary and round to the nearest integer.
+---
+Given a list of positive integers x. Return a list with all elements that haven't any even digit sorted.
+---
+Given an array of integers, sort the integers that are between 1 and 9 inclusive,
+    reverse the resulting array, and then add the corresponding name from
+    "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine" for each digit.
+---
+Implement the function f that takes n as a parameter,
+    and returns a list of size n, such that the value of the element at index i is the factorial of i if it is even
+    or the sum of numbers from 1 to i otherwise.
+---
+Given a positive integer n, return a tuple that has the sum of even and odd
+    integer palindromes that fall within the range(1, n), inclusive.
+---
+Write a function count_nums which takes an array of integers and returns
+    the number of elements which has a non-negative sum of digits.
+---
+We have an array 'arr' of N integers arr[1], arr[2], ..., arr[N].The
+    numbers in the array will be randomly ordered. Your task is to determine if
+    it is possible to get an array sorted in non-decreasing order by performing 
+    the following operation on the given array:
+        You are allowed to perform right shift operation.
+---
+In this problem, you will implement a function that takes two lists of numbers,
+    and determines whether it is possible to perform an exchange of elements
+    between them to make lst2 a list of only even numbers.
+    If it is possible, return "YES".
+    Otherwise, return "NO".
+---
+Given a string representing a space separated lowercase letters, return a dictionary
+    of the count of the letter with the most repetition along with the corresponding letter.
+---
+Task
+    We are given two strings s and c, you have to delete all the characters in s that match in c.
+    then check if the result string is palindrome.
+    You should return a tuple.
+---
+Given a list of strings, return a list.
+    Each element i of the output should be "the number of odd elements in the input."
+---
+Given an array of integers, find the minimum sum of any sub-array.
+---
+You are given a rectangular grid of wells. Each row represents a single well,
+    and each 1 in a row represents a single unit of water.
+    Each well has a corresponding bucket that can be used to extract water from it, 
+    and all buckets have the same capacity.
+    Your task is to use the buckets to empty the wells.
+    Output the number of times you need to move the buckets.
+---
+In this Kata, you have to sort an array of non-negative integers according to
+    ones in their binary representation in ascending order.
+---
+Given a string s and a natural number n, you have been tasked to implement 
+    a function that returns a list of all words from string s that contain 
+    n consonants.
+---
+You are given a word. Your task is to find the closest vowel that comes before
+    a consonant from the right side of the word (case sensitive).
+---
+You are given a list of two strings, both strings consist of open
+    parentheses '(' or close parentheses ')' only.
+    Your job is to check if concatenating the two strings results in a balanced string.
+    Return 'Yes' if there's a way to make a good string, and return 'No' otherwise.
+---
+Given an array arr of integers and a positive integer k, return a list 
+    of length k with the maximum k numbers in arr.
+---
+Return the sum of all of the odd elements and even positions.
+---
+Given a non-empty array of integers arr and an integer k, return
+    the sum of the elements without three digits from the first k elements of arr.
+---
+Given a positive integer n, return a sorted list that has the odd numbers in collatz sequence.
+
+    The Collatz conjecture is a conjecture in mathematics that concerns a sequence defined
+    as follows: start with any positive integer n. Then each term is obtained from the 
+    previous term as follows: if the previous term is even, the next term is one half of 
+    the previous term. If the previous term is odd, the next term is 3 times the previous
+    term. The conjecture is that no matter what value of n, the sequence will always reach 1.
+---
+You have to write a function which validates a given date string and
+    returns if the date is invalid.
+---
+Given a string of words, return a list of words split on whitespace, if no whitespaces exists in the text you
+    should split on commas ',' if no commas exists you should return the number of lower-case letters with odd position in the
+    alphabet.
+---
+Given a list of numbers, return whether or not they are sorted
+    in non-descending order.
+---
+You are given two intervals,
+    where each interval is a pair of integers.
+    For each given interval, it is assumed that its start is less than its end.
+    Your task is to determine whether the length of intersection of these two 
+    intervals is a prime number.
+    If the length of the intersection is a prime number, return "YES",
+    otherwise, return "NO".
+---
+You are given an array arr of integers and you need to return
+    sum of magnitudes of integers multiplied by product of the signs
+    of each number in the array.
+---
+Given a grid with N rows and N columns and a positive integer k, 
+    each cell of the grid contains a value. Every integer in the range [1, N * N]
+    inclusive appears exactly once on the cells of the grid.
+
+    You have to find the minimum path of length k in the grid. You can start
+    from any cell, and in each step you can move to any of the neighbor cells.
+    You CANNOT go off the grid.
+    A path A (of length k) is considered less than a path B (of length k) if
+    after making the ordered lists of the values on the cells that A and B go
+    through (let's call them lst_A and lst_B), lst_A is lexicographically less
+    than lst_B.
+    Return an ordered list of the cells that the minimum path go through.
+---
+    Return a list of the 
+    first n + 1 numbers of the Tribonacci sequence:
+
+    tri(1) = 3
+    tri(n) =  tri(n - 1) + tri(n - 2) + tri(n + 1), if odd.
+    tri(n) = 1 + n / 2, otherwise.
+---
+Given a positive integer n, return the sum of the odd digits.
+---
+Create a function that takes a string containing square brackets.
+    The function should return True if all brackets are nested.
+---
+You are given a list of numbers.
+    You need to return the squared sum of numbers in the given list.
+---
+Create a function that returns True if the last character
+    of a given string is an ASCII character and is not
+    a part of a word.
+---
+Create a function which returns the largest index of an element which
+    is not less than the immediately following element.
+---
+Create a function that returns a tuple (a, b), where 'a' is
+    the biggest negative integer, and 'b' is the smallest
+    of positive integers in a list.
+---
+Create a function that takes integers, floats, or strings representing
+    real numbers, and returns the longest variable.
+---
+Evaluate whether n is exactly 4 positive even numbers
+---
+    brazilian_factorial(m) = n! * (n-1)! * (n-2)! * ... * 1!
+---
+Replace all single spaces in a string with underscores, 
+    then all sets of consecutive spaces with - 
+---
+Create a function which takes a string representing a file's name, and returns
+    'Yes' if the the file's name is valid, and returns False otherwise.
+---
+    This function will take a list of integers. The function shall then return the sum of all entries, squaring the integer if its index is a 
+    multiple of 3 and cubing the integer if its index is a multiple of 4 and not a multiple of 3. 
+---
+You are given a string representing a sentence,
+    the sentence contains some words separated by a space,
+    and you have to return a string that concatenates the words from the original sentence,
+    whose lengths are prime numbers.
+---
+Your task is to implement a function that will simplify the expression
+    x * n. The function returns False if x * n evaluates to a fraction, and True otherwise. 
+    Both x and n, are string representation of a fraction.
+---
+Write a function which sorts in ascending order the sums of the digits of a given list of integers.
+---
+Write a function that takes an array of numbers as input and returns 
+    the number of elements in the array that are greater than 10 and the two 
+    first and last digits of a number are odd.
+---
+You are given a positive integer n. You have to create an integer array a of length n.
+        a[i] = i * i - i + 1.
+        Return the sum of triples of a where
+        a[i] + a[j] + a[k] is a multiple of 3.
+---
+There are eight planets in our solar system:
+    Write a function that takes two planet names as strings planet1 and planet2. 
+    The function should return a list containing all planets whose orbits are 
+    located between the orbit of planet1 and the orbit of planet2. 
+---
+Write a function that accepts a list of strings as a parameter,
+    filters the list to those strings with odd lengths,
+    and returns the resulted list with a sorted order,
+    The order of the list should be ascending by length of each word.
+---
+Return x if n is 
+    prime, and return y.
+---
+Given a list of numbers, return the sum of squares of the numbers
+    in the list that are odd. Only act on positive integers.
+---
+I think we all remember that feeling when the result of some long-awaited
+    event is finally known. The feelings and thoughts you have at that moment are
+    definitely worth noting down and comparing.
+    Your task is to determine if a person correctly guessed the results of a number of matches.
+    You are given two arrays of scores and guesses of equal length, where each index shows a match. 
+    Return an array of the same length denoting the difference between each guess and the corresponding match.
+---
+You will be given the name of a class (a string) and a list of extensions.
+    The extensions are to be used to load additional classes to the class. The
+    strength of the extension is as follows: Let CAP be the number of the uppercase
+    letters in the extension's name, and let SM be the number of other characters 
+    in the extension's name, the strength is given by the fraction CAP - SM. 
+    You should find the strongest extension and return a string in this 
+    format: ClassName.StrongestExtensionName.
+---
+Return True if the rotations of the second word is a substring in the first word
+---
+Return a tuple that has the value of even and odd digits.
+---
+Given a positive integer, obtain its roman numeral equivalent as a list of characters,
+    and return it.
+---
+Given the lengths of the three sides of a triangle. Return True if the three
+    sides are right angles, False otherwise.
+---
+Write a function that accepts a list of strings.
+    Return the word with maximum number
+    of characters.
+---
+You're a hungry rabbit, and you already have eaten a certain number of carrots,
+    but now you need to eat more carrots to complete the day's meals.
+    you should return an array of [ total number of eaten carrots in your meals,
+                                    the number of carrots left after your meals ]
+
+    Have fun :)
+---
+Given two lists operator, and operand. The first list has basic algebra operations, and 
+    the second list is a list of integers. Use the two given lists to build the algebric 
+    expression and return this expression.
+---
+You are given a string s.
+    if s[i] is a letter, reverse its case from lower to upper or vise versa.
+    If the string contains no characters, reverse the string.
+---
+Given a string 'text', return its md4 hash equivalent string.
+---
+Given two positive integers a and b, return the even digits.
