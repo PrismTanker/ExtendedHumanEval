@@ -9,7 +9,7 @@
 
 ## Dataset Description
 This is an extension of the HumanEval dataset released by OpenAI (Chen et al. 2021), compiled as
-part of my honors thesis "Generative Program Correctness:
+part of my honours thesis "Generative Program Correctness:
 An Iterative Assistant (IA) to improve the quality of AI generated code for novice users" completed
 at the University of Queensland in 2024.
 
